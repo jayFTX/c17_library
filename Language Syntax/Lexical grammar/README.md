@@ -1,6 +1,6 @@
 # Lexical grammar(词汇语法)
 
-**lexical grammar **
+**lexical grammar**
 
 ​		**definition** :  The lexical grammar lays down the rules governing how a character sequence is divided up
 
@@ -16,7 +16,7 @@ into subsequences of characters, each part of which represents an individual tok
 
 Lexical elements: include **token** and **preprocessing-token**.
 
-#### 1_1. **token ** 
+#### 1_1. **token** 
 
 ​		**definition**:  A token is the smallest independent unit of meaning in a program, as defined by the compiler. 
 
@@ -72,7 +72,7 @@ consist of letters, digits, and underscores, with certain rules and conventions 
 
 ​			identifier  = [identifier-non-digit],
 
- 						     = [identifier  identifier-non-digit], or
+​							  = [identifier  identifier-non-digit], 
 
 ​							  = [identifier  digit]
 

@@ -6,7 +6,7 @@
 
 group: (包含4个部分)
 
-1. **if-section  **
+1. **if-section**
 2. **control-line**
 3. **text-line**
 4. **non-directive** 

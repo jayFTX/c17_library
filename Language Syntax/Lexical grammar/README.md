@@ -6,7 +6,7 @@
 
 into subsequences of characters, each part of which represents an individual token.
 
-从上可以知道，词汇语法告诉编译器怎么样去把一个字符序列分成一个个token.
+​		从上可以知道，词汇语法告诉编译器怎么样去把一个字符序列分成一个个token.
 
 ***
 
@@ -28,15 +28,13 @@ There are five different types of tokens:
 >4. string-literal. (字符串)
 >5. punctuator. (标点符号)
 
-##### 1_01. keywords: 
+##### 1_01. keywords:
 
 ​		**definition**:  Reserved words that have special meaning in the programming language.
 
 ##### <img src="https://raw.githubusercontent.com/jayFTX/c17_library/master/img/Snipaste_2024-03-07_12-49-20.png" alt="keywords" style="zoom:50%;" />
 
-+++
-
-
+****
 
 ##### 1_02. identifier:  
 
@@ -90,7 +88,7 @@ consist of letters, digits, and underscores, with certain rules and conventions 
 
 ***综上， 标识符构成规则: 不能以数字开头，但是可以用下划线，字母和universal-character-name开头,并且在后面能跟 任意个下划线，字母，数字和universal-character-name等***。
 
-+++
+***
 
 
 
